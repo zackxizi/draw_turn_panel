@@ -1,0 +1,7 @@
+path: /Users/zhangxi/Code/study/python/draw_turn_panel/dataset
+train: train/images
+val: valid/images
+
+# Classes
+names:
+  0: turn
